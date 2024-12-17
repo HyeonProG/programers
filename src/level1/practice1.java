@@ -1,6 +1,6 @@
 package level1;
 
-public class practice1 {
+public class Practice1 {
 
     public int solution(int n) {
         int answer = 0;

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class reverseList {
+public class ReverseList {
 
     public int[] solution(int[] num_list) {
         List<Integer> list = new ArrayList<>();
